@@ -1,0 +1,55 @@
+TECHNO
+DB
+mySql
+    mysql2
+    sequelize
+    sequelize-cli
+
+BACK-END
+expressJs
+
+FRONT-END
+nextJs
+ReactJs
+Material UI
+    @material-ui/core
+    @material-ui/icons
+    @material-ui/styles
+    typeface-roboto
+axios/ fetch
+
+----------- ----------- ----------- ----------- -----------
+
+STEP
+sketch the UI / imagine the flow
+create db > prepare project folder > code
+
+Project step to combine
+1. download custom next-express
+    https://github.com/zeit/next.js/tree/canary/examples/custom-server-express
+    make app.js for split the code server
+
+2. add MySql    (mysql2, sequelize, sequelize-cli)
+    https://sequelize.org/master/manual/migrations.html
+    change config.json  on config folder
+
+4. add Material UI  
+    https://material-ui.com/getting-started/installation/
+    for material-ui setting (for SSR)
+    https://github.com/mui-org/material-ui/tree/master/examples/nextjs
+
+5. add other package you want
+
+
+make components folder  (for our react component)
+make controllers folder  (for back-end)
+make routes folder  (for back-end)
+make model file manually or with sequelize on terminal
+make public folder for our public files
+
+this project start on server.js
+main page on page/index.js
+then the components on compopnent folder
+
+HOPE ENJOY THIS VIDEO :D THANKS
+
