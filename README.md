@@ -1,6 +1,6 @@
 # Nextjs-mui-expressjs-mySql-Sequelize
 
-understanding combination with Nextjs, Material Ui, expressjs, mySql, Sequelize
+understanding combination with Nextjs (custom server with express), Material Ui, expressjs, mySql, Sequelize
 
 ## Tech Stack
 
