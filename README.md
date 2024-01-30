@@ -13,7 +13,7 @@ understanding combination with Nextjs (custom server with express), Material Ui,
 
 ## Project Routes
 
-all movies: GET /getMovie
+all movies: GET /getMovie <br>
 select movie: GET /detailMovie/:id
 
 ## Run Locally
