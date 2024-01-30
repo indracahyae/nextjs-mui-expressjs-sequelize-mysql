@@ -1,4 +1,4 @@
-# Nextjs-mui-expressjs-mySql-Sequelize
+# About
 
 understanding combination with Nextjs (custom server with express), Material Ui, expressjs, mySql, Sequelize
 
@@ -9,7 +9,7 @@ understanding combination with Nextjs (custom server with express), Material Ui,
 - material ui = component library (reactjs)
 - Express = backend framework
 - mysql = database
-- Sequelize = database interaction
+- Sequelize = database orm
 
 ## Project Routes
 
@@ -20,7 +20,7 @@ select movie: GET /detailMovie/:id
 
 - download or Clone this project
 - Install dependencies/ package
-- prepare your database, table
+- prepare your database (see on config folder), table structure on models folder
 - prepare and start your local server
 - ready to run project (suitable with your local server)
 
